@@ -5,12 +5,12 @@ add all files to repo - git add .
 get repo status - git status
 
 add myself to repo (at home add --global before user. NOT ON SCHOOL PC):
-- git config user.name "kitykatgirl"
-- git config user.email "kamilord220@vp.pl"
+- git config user.name "<< my username >>"
+- git config user.email "<< my email >>"
 
 (e/n: do this before commit (kida obv but you kinda stupid autismo))
 
-commit to repo - git commit -m "<<name of the commit or smthn>>"
+commit to repo - git commit -m "<< name of the commit or smthn >>"
 
 see repo logs - git log
 
@@ -31,3 +31,4 @@ push repo to github
 example: git remote add origin https://github.com/kitykatgirl/klasa-3-powtorzenie.git
 3. for first time - git push -u origin master
 	other time - git push
+
