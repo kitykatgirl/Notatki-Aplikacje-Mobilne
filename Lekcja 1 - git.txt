@@ -32,3 +32,4 @@ example: git remote add origin https://github.com/kitykatgirl/klasa-3-powtorzeni
 3. for first time - git push -u origin master
 	other time - git push
 
+(e/n REMEMBER TO LOG OUT AFTER CLASS)
