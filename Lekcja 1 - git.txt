@@ -26,8 +26,8 @@ Date:   Tue Sep 9 07:49:06 2025 +0200
 
 push repo to github
 
-create new repo on github
-get the git remote add origin line from the code box and run it
+1. create new repo on github
+2. get the git remote add origin line from the code box and run it
 example: git remote add origin https://github.com/kitykatgirl/klasa-3-powtorzenie.git
 3. for first time - git push -u origin master
 	other time - git push
