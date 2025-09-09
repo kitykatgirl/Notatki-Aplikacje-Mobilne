@@ -33,3 +33,6 @@ example: git remote add origin https://github.com/kitykatgirl/klasa-3-powtorzeni
 	other time - git push
 
 (e/n REMEMBER TO LOG OUT AFTER CLASS)
+
+Things to log out of:
+	- Github > > > EVERYWHERE < < <
